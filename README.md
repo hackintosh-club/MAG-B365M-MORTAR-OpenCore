@@ -16,19 +16,19 @@
 ### Hardware
 
 - Motherboard:MSI-MAG-B365M-MORTAR
-- Bios Version: 
+- Bios Version: E7C67UIMS.143（2021-01-17）
 - CPU: Intel i5-9600K
-- RAM: 
-- SSD: 
+- RAM: AVEXIR 2x16GB DDR4 2666MHz
+- SSD: UNSPC512AKMM 512G MacOS
+- SSD: Samsung SSD 840 Series 120G Windows
+- SSD: Crucial MX500 1TB
 - iGPU: Intel UHD630
 - GPU: XFX SPEEDSTER MERC308 Radeon RX 6600 XT 8GB
-- Audio: 
-- Ethernet: 
-- Wireless: 
-- CPU Cooling：
-- Display: 
-- PSU: 
-- CASE:
+- Audio: Realtek ALC256
+- Ethernet: Intel L219V
+- Display:PHL272B
+- PSU: SEASONIC 650W 80Plus Gold
+- CASE:Jonsbo U4 Plus
 
 
 ### Bios Setup
@@ -54,8 +54,4 @@
 - Geekbench5 Score Metal XFX SPEEDSTER MERC308 Radeon RX 6600 XT 8GB
 
 ![image](ScreenShot/metal.png)
-
-- Case
-
-![image](ScreenShot/CASE.png)
 
