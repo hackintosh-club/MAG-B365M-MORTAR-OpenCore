@@ -2,7 +2,7 @@
 
 ![image](ScreenShot/Motherboard.png)
 
-### [English](README.md)
+### [English](https://github.com/hackintosh-efi/MAG-B365M-MORTAR-OpenCore)
 
 ### OpenCore
 
