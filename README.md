@@ -23,9 +23,10 @@
 - SSD: Samsung SSD 840 Series 120G Windows
 - SSD: Crucial MX500 1TB
 - iGPU: Intel UHD630
-- GPU: XFX SPEEDSTER MERC308 Radeon RX 6600 XT 8GB
+- GPU: XFX SPEEDSTER MERC308 Radeon RX6600XT 8GB
 - Audio: Realtek ALC256
 - Ethernet: Intel L219V
+- Wireless: BCM943602CS With PCIE Adapter
 - Display:PHL272B
 - PSU: SEASONIC 650W 80Plus Gold
 - CASE:Jonsbo U4 Plus
